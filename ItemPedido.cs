@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Gestao_Pedidos_Loja_virtual
 {
-    internal class ItemPedido
+    public class ItemPedido
     {
     }
 }
