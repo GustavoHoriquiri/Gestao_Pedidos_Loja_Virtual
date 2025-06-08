@@ -8,5 +8,6 @@ namespace Gestao_Pedidos_Loja_virtual
 {
     public class Desconto_P
     {
+        double AplicarDesconto(List<ItemPedido> itens, double total);
     }
 }
