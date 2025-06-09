@@ -8,5 +8,6 @@ namespace Gestao_Pedidos_Loja_virtual
 {
 	public class ILogger
 	{
-	}
+        void Log(string mensagem);
+    }
 }
